@@ -54,4 +54,4 @@ Image-Search-Gallery/
 
 ## Author
 
-Omkar Rajamane
+Omkar S Rajamane
